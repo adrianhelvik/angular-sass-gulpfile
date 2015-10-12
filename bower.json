@@ -1,0 +1,24 @@
+{
+  "name": "forbrukervalget-nyheter",
+  "version": "0.0.0",
+  "authors": [
+    "Adrian Ødeby Helvik <adrianoh@student.matnat.no>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "UNLICENCED",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "angular-ui-router": "~0.2.15"
+  }
+}
